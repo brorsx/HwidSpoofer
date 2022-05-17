@@ -1,0 +1,14 @@
+1. launch hwidcheck.bat and make a screenshot of an output - save it somewhere.
+2. launch frogxproject.exe and do everything what u see on output.
+3. after everything reboot ur pc
+4. launch hwidcheck.bat again and compare after and before output - if it's different it worked
+
+
+
+
+
+
+
+
+
+For any help hit me up on dc: PoProstuJJ#2848
